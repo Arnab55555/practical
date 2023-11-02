@@ -1,9 +1,10 @@
 import java.util.Scanner;
-public class testing2
+public class
+[A[A[B[C[C[C[C[C[C[C[C[C[C[C[C testing2
 {
-public static void main (String args [])
+public static void main(String args[])
 {
-System.out.println("Trying second time");
+System.out.println("Hello World");
 }
 }
 
