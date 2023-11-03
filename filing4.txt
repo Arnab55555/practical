@@ -1,2 +1,4 @@
 first line with feature1
 
+Second line with the main
+
